@@ -1,16 +1,71 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://t.me/o_gam" target="_blank">Ilya</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Data science student from Russia 🇷🇺</h3>
 
-<!--
-**o-gamak/o-gamak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/Python-3.11-blue?style=flat&logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/NumPy-1.24-orange?style=flat&logo=numpy" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-2.0-green?style=flat&logo=pandas" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-1.3-red?style=flat&logo=scikit-learn" alt="Scikit-learn"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education
+- **Data Science Program** at Yandex Practicum (ongoing)
+- **Advanced Programming & Data Science** at Sber's School 21 (ongoing)
+
+### 🌱 Interests
+- Big Data ecosystems and architectures
+- Machine Learning (supervised/unsupervised methods)
+- Data visualization and storytelling
+- Model optimization and deployment
+
+### 📫 How to Reach Me
+- Email: iliy-gam@yandex.ru
+- Telegram: [@o_gam](https://t.me/o_gam)
+
+### 🔬 Current Projects
+
+1. **[1_1_research_data_analysis](https://github.com/o-gamak/1_1_research_data_analysis)**  
+   *Exploratory Data Analysis of real estate listings in Saint Petersburg for Yandex Realty.*  
+   Analyzed factors affecting apartment prices (area, distance to center, number of rooms) and identified 5% anomalies potentially indicating fraud. Used Python, Pandas, and Matplotlib to visualize price distributions and correlation heatmaps.
+
+2. **[1_2_capstone_project_1](https://github.com/o-gamak/1_2_capstone_project_1)**  
+   *Russian film market analysis for the Ministry of Culture.*  
+   Combined 100K+ records of film distribution permits and Kinopoisk ratings. Found that state‑supported films (10% of market) earn 50% less than commercial ones. Visualized box office trends and seasonal patterns.
+
+3. **[2_1_statistical_data_analysis](https://github.com/o-gamak/2_1_statistical_data_analysis)**  
+   *User behavior analysis for GoFast scooter‑sharing service.*  
+   Tested hypotheses about subscription (ultra) vs. free users. Confirmed ultra users generate 15% more revenue (p‑value < 0.05). Recommended 1,172 promo codes to reduce risk to 5%.
+
+
+4. **[2_2_linear_ml_problems](https://github.com/o-gamak/2_2_linear_ml_problems)**  
+   *Milk yield prediction for "Volny Lug" farm.*  
+   Built regression models to predict annual milk yield (≥6,000 kg) and flavor probability. Achieved R² = 0.79 (RMSE = 500 kg) for yield and Precision = 1.0 at 0.8 threshold for flavor.
+
+5. **[2_3_supervised_learning](https://github.com/o-gamak/2_3_supervised_learning)**  
+   *Customer segmentation for "In One Click" online store.*  
+   Developed a classification model (85% accuracy, F1 = 0.82) to identify 10% of customers at risk of reduced activity. Created 3 segments and visualized purchase patterns.
+
+6. **[2_4_capstone_project_2](https://github.com/o-gamak/2_4_capstone_project_2)**  
+   *Employee satisfaction and churn prediction for "Work with Care".*  
+   Built models to predict churn (80% accuracy, ROC‑AUC = 0.85) and satisfaction (R² = 0.7). Recommended training programs for employees with scores < 0.5 to reduce churn by 10–15%.
+
+7. **[3_1_ml_in_business](https://github.com/o-gamak/3_1_ml_in_business)**  
+   *Oil well location optimization for "GlavRosGosNeft".*  
+   Analyzed 3 regions using bootstrap (1,000 samples). Selected Region 2 with zero loss risk and projected profit of 518 M RUB (budget: 10 B RUB). Model RMSE < 41K barrels.
+
+8. **[3_2_basic_sql](https://github.com/o-gamak/3_2_basic_sql)** — SQL fundamentals practice repository
+
+9. **[3_3_big_data_processing_system](https://github.com/o-gamak/3_3_big_data_processing_system)**  
+   *California housing price prediction using PySpark.*  
+   Built a distributed linear regression pipeline (Spark SQL + MLlib) on 1990 data. Achieved RMSE = 68,421 (target ≤ 70,000), MAE = 49,875, R² = 0.651. Key features: median_income and ocean proximity.
+
+10. **[4_1_numerical_methods](https://github.com/o-gamak/4_1_numerical_methods)**  
+   *"Not Dented, Not Painted" car valuation model.*  
+   Compared 4 models (RandomForest, LightGBM, XGBoost, CatBoost) for used car pricing. CatBoost won with RMSE = 1,540.8 (1.6× better than requirement) and 0.4 sec prediction time. Top features: year, power, mileage.
+
+11. **[4_2_workshop](https://github.com/o-gamak/4_2_workshop)**  
+    *90‑day purchase prediction for an online clothing store.*  
+    Built a CatBoost classifier (ROC‑AUC = 0.8275) using 40+ features (RFM metrics, CTR, recency). SHAP analysis identified ctr_30d as the top driver. Project includes automatic data loading and requirements.txt.
