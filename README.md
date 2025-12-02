@@ -25,7 +25,9 @@
 - Email: iliy-gam@yandex.ru
 - Telegram: [@o_gam](https://t.me/o_gam)
 
-### 🔬 Current Projects
+
+<details>
+<summary><b>🔬 Current Projects </b></summary>
 
 1. **[1_1_research_data_analysis](https://github.com/o-gamak/1_1_research_data_analysis)**  
    *Exploratory Data Analysis of real estate listings in Saint Petersburg for Yandex Realty.*  
@@ -69,3 +71,4 @@
 11. **[4_2_workshop](https://github.com/o-gamak/4_2_workshop)**  
     *90‑day purchase prediction for an online clothing store.*  
     Built a CatBoost classifier (ROC‑AUC = 0.8275) using 40+ features (RFM metrics, CTR, recency). SHAP analysis identified ctr_30d as the top driver. Project includes automatic data loading and requirements.txt.
+</details>
