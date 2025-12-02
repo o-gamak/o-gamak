@@ -2,13 +2,24 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Data science student from Russia 🇷🇺</h3>
 
-
+<h3 align="center">My stack</h3>
 <div align="center">
-  
-  <img src="https://img.shields.io/badge/Python-3.11-blue?style=flat&logo=python" alt="Python"/>
-  <img src="https://img.shields.io/badge/NumPy-1.24-orange?style=flat&logo=numpy" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-2.0-green?style=flat&logo=pandas" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-1.3-red?style=flat&logo=scikit-learn" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Python-3.11-4B8BBE?style=for-the-badge&logo=python" alt="Python"/>
+<img src="https://img.shields.io/badge/NumPy-1.24-4D4D4D?style=for-the-badge&logo=numpy" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-2.0-150432?style=for-the-badge&logo=pandas" alt="Pandas"/>
+<img src="https://img.shields.io/badge/SciPy-1.11-3776AB?style=for-the-badge&logo=scipy" alt="SciPy"/>
+<img src="https://img.shields.io/badge/Scikit--learn-1.3-F49432?style=for-the-badge&logo=scikit-learn" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/XGBoost-2.0-D05B2D?style=for-the-badge&logo=xgboost" alt="XGBoost"/>
+<img src="https://img.shields.io/badge/LightGBM-4.0-2B4865?style=for-the-badge" alt="LightGBM"/>
+<img src="https://img.shields.io/badge/CatBoost-1.2-0078D4?style=for-the-badge" alt="CatBoost"/>
+<img src="https://img.shields.io/badge/PyTorch-2.4-EE4C21?style=for-the-badge&logo=pytorch" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/PySpark-3.4-E31C23?style=for-the-badge&logo=apachespark" alt="PySpark"/>
+<img src="https://img.shields.io/badge/Matplotlib-3.8-FF9900?style=for-the-badge&logo=matplotlib" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-0.13-3333CC?style=for-the-badge&logo=seaborn" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/Plotly-5.20-2E91BE?style=for-the-badge&logo=plotly" alt="Plotly"/>
+<img src="https://img.shields.io/badge/PostgreSQL-16-336791?style=for-the-badge&logo=postgresql" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Docker-26.1-2496ED?style=for-the-badge&logo=docker" alt="Docker"/>
+<img src="https://img.shields.io/badge/Git-2.45-F05033?style=for-the-badge&logo=git" alt="Git"/>
 </div>
 
 ### 🎓 Education
@@ -41,7 +52,6 @@
    *User behavior analysis for GoFast scooter‑sharing service.*  
    Tested hypotheses about subscription (ultra) vs. free users. Confirmed ultra users generate 15% more revenue (p‑value < 0.05). Recommended 1,172 promo codes to reduce risk to 5%.
 
-
 4. **[2_2_linear_ml_problems](https://github.com/o-gamak/2_2_linear_ml_problems)**  
    *Milk yield prediction for "Volny Lug" farm.*  
    Built regression models to predict annual milk yield (≥6,000 kg) and flavor probability. Achieved R² = 0.79 (RMSE = 500 kg) for yield and Precision = 1.0 at 0.8 threshold for flavor.
@@ -71,4 +81,9 @@
 11. **[4_2_workshop](https://github.com/o-gamak/4_2_workshop)**  
     *90‑day purchase prediction for an online clothing store.*  
     Built a CatBoost classifier (ROC‑AUC = 0.8275) using 40+ features (RFM metrics, CTR, recency). SHAP analysis identified ctr_30d as the top driver. Project includes automatic data loading and requirements.txt.
+
+12. **[school21_intensive](https://github.com/o-gamak/school21_intensive)**  
+
+*26‑day intensive programming bootcamp at Sber’s School 21.*
+Learned Bash and C from scratch: started with basic syntax and progressed to dynamic memory allocation, matrices, and pointer arithmetic. Completed two group projects applying core programming concepts. Covered shell scripting, memory management, and algorithmic problem‑solving in a high‑intensity, immersive environment.
 </details>
