@@ -83,7 +83,7 @@
     Built a CatBoost classifier (ROC‑AUC = 0.8275) using 40+ features (RFM metrics, CTR, recency). SHAP analysis identified ctr_30d as the top driver. Project includes automatic data loading and requirements.txt.
 
 12. **[school21_intensive](https://github.com/o-gamak/school21_intensive)**  
-
-*26‑day intensive programming bootcamp at Sber’s School 21.*
-Learned Bash and C from scratch: started with basic syntax and progressed to dynamic memory allocation, matrices, and pointer arithmetic. Completed two group projects applying core programming concepts. Covered shell scripting, memory management, and algorithmic problem‑solving in a high‑intensity, immersive environment.
+   *26‑day intensive programming bootcamp at Sber’s School 21.*
+   Learned Bash and C from scratch: started with basic syntax and progressed to dynamic memory allocation, matrices, and pointer arithmetic. Completed two group projects applying core programming concepts. Covered shell scripting, memory management, and algorithmic problem‑solving in a high‑intensity, immersive environment.
+   
 </details>
